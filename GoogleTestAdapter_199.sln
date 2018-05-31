@@ -16,6 +16,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AE016CE3-FA0D-4440-9687-397FDC5374E4}"
 	ProjectSection(SolutionItems) = preProject
 		GoogleTestAdapter_199.gta.runsettings = GoogleTestAdapter_199.gta.runsettings
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
