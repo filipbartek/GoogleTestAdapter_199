@@ -1,0 +1,13 @@
+# Inspiration: https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
+
+# User-specific files
+*.suo
+*.user
+
+# Build results
+Debug/
+Release/
+
+# Visual C++ cache files
+*.VC.db
+*.VC.VC.opendb
