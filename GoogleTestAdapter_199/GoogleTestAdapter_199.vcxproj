@@ -27,6 +27,9 @@
       <Project>{30916956-1e65-4c1f-ba3e-13c46b500e0f}</Project>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test_printcurrentdirectory.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{5515FB13-65FF-4903-B275-94DC4AB6407A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
